@@ -1,5 +1,6 @@
 # whatismyping
 If you want to see how many pings you will have before starting the game, try it :)
+ https://anilsahindev.github.io/gamePingwVue/
 ## Project setup
 ```
 yarn install
